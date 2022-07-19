@@ -1,0 +1,2 @@
+# NYC-Taxi-Trip-Time-Prediction---Capstone-Project
+The objective of the model was to predict the accurate trip duration of a taxi from one of the pickup location to another drop-off location. So, in the methodology, we proposed a method to make predictions of trip duration, in which we used several algorithms, tune the corresponding parameters of the algorithm by analyzing each parameter against RMSE and predict the trip duration. To make our prediction we used Random Forest, Decision Trees and Linear Regression.
